@@ -11,10 +11,11 @@
     /* scrollbar-color: white; */
 }
 
+
 body{
     min-height: 100vh;
     background: green;
-    background: url(image_2.jpeg);
+    background: url(image_2.jpeg);  
     background-size: cover;
     background-position: center;
 
@@ -53,10 +54,6 @@ header .socail-icons i{
 header .header-title span{
     margin:  0 65px;
     /* background-color: blue; */
-}
-
-header p:hover , i:hover{
-    cursor: pointer;
 }
 
 footer{
